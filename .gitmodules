@@ -1,0 +1,3 @@
+[submodule "CSCI"]
+	path = CSCI
+	url = git@github.com:shivamhingorani/brown-csci.git
